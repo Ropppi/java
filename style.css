@@ -1,0 +1,11 @@
+.fieldset{
+    margin: 1%;
+    background-color: aliceblue;
+    width: 20%;
+    text-align: center;
+}
+button{
+    background-color:darkgray;
+    border: none;
+    color: white;
+}
